@@ -43,13 +43,10 @@ I enjoy understanding an existing codebase, solving issues, writing tests, and g
 | 💻 Languages | 🤖 AI / ML | ⚙️ Development | 🧪 Testing & Tools |
 | :--- | :--- | :--- | :--- |
 | Python | PyTorch / TensorFlow | Git & GitHub | pytest |
-| C++ / C | Scikit-Learn | Docker | Jest |
-| SQL | Pandas / NumPy | REST APIs | Conda |
-| JavaScript / TS | OpenCV (Vision) | Linux / Bash | Poetry |
-| Prolog | Jupyter / Colab | VS Code | CI / GitHub Workflows |
-| | | | Virtual environments |
-
-*(Note: Languages, AI/ML, and Development populated based on your profile and standard ML stacks; adjust as needed!)*
+| SQL | Scikit-Learn | VS Code | Jest |
+| | Pandas / NumPy | | Conda |
+| | OpenCV (Vision) | | CI / GitHub Workflows |
+| | Jupyter / Colab | | Virtual environments |
 
 ---
 
@@ -65,6 +62,12 @@ I enjoy understanding an existing codebase, solving issues, writing tests, and g
 ---
 
 ## 📈 GitHub Activity
+
+**Akhil's GitHub Status:**
+- **Total Commits:** [Enter your count here]
+- **Total PR's:** [Enter your count here]
+- **Merged PR's:** [Enter your count here]
+- **Total Issues:** [Enter your count here]
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=m-akhil-reddy&show_icons=true&theme=transparent&hide_border=true&title_color=36BCF7&text_color=ffffff" alt="Akhil's GitHub Stats" width="48%" />
@@ -90,7 +93,7 @@ I'm always interested in discussing **AI • Machine Learning • Open Source �
   <a href="https://linkedin.com/in/akhil-reddy-mogilla-34873427a">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://github.com/m-akhil-reddy">
+  <a href="url?id=138">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
   <a href="mailto:akhilreddymogilla@gmail.com">
