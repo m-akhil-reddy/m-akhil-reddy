@@ -55,10 +55,10 @@
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=m-akhil-reddy&theme=tokyonight&hide_border=true" alt="Akhil's GitHub Streak" />
   <br><br>
-  <img src="https://github-readme-stats.vercel.app/api?username=m-akhil-reddy&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Akhil's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=m-akhil-reddy&show_icons=true&theme=tokyonight&hide_border=true" alt="Akhil's GitHub Stats" />
 </div>
 
----
+--
 
 ## 🚀 What I Do
 
