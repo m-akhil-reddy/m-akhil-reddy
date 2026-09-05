@@ -6,30 +6,11 @@
 
 ---
 
-## 📈 GitHub Activity
-
-**Akhil's GitHub Status:**
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=m-akhil-reddy&theme=tokyonight&hide_border=true" alt="Akhil's GitHub Streak" />
-  <br><br>
-  <img src="https://github-readme-stats.vercel.app/api?username=m-akhil-reddy&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Akhil's GitHub Stats" />
-</div>
-
----
-
 - 🎓 Starting my Master's in Artificial Intelligence & Machine Learning at **BTH, Sweden** 🇸🇪
 - 💻 I enjoy working with **Python, Machine Learning, Software Engineering, and Open Source**
 - 🌱 Currently learning and building deeper expertise in **AI/ML**
 - 🤝 Open to collaborating on **AI/ML and Open Source projects**
 
----
-
-## 🚀 Experience Highlights
-
-| 🔬 HPH-Vision | 🧩 IRx (arxlang) |
-| :--- | :--- |
-| **Open Source Contributor** · 2026<br><br><ul><li>📐 Implemented core geometry engines and visual acuity/refraction primitives</li><li>🧪 Expanded test coverage for reliability scoring and triage edge cases</li><li>⚙️ Resolved CI pipeline conflicts and updated project governance docs</li></ul> | **Open Source Contributor** · 2026<br><br><ul><li>⚙️ Engineered LLVM IR code generation for Struct definitions</li><li>🔧 Implemented lowering support for Literal sets, tuples, and dicts</li><li>🔄 Added support for Break and Continue control flow statements</li></ul> |
 ---
 
 ## 🚀 What I Do
@@ -44,41 +25,32 @@
 
 ---
 
-## 🌍 Open Source
+## 🚀 Experience Highlights
 
-I have contributed to open-source projects and worked on real GitHub issues and pull requests. 
-I enjoy understanding an existing codebase, solving issues, writing tests, and getting changes reviewed and merged.
-
-**Some of my open-source work includes:**
-* **HPH-Vision:** Contributing to computer-vision related development
-* **IRx:** Open-source development and issue-based contributions
-* **AST / LLVM-related work:** Exploring software tooling and code analysis
-* **General Contributions:** Testing, bug fixes, feature implementation, and codebase improvements
+| 🔬 HPH-Vision (Intern) | 🧩 IRx (arxlang) |
+| :--- | :--- |
+| **Intern / Open Source Contributor** · 2026<br><br><ul><li>📐 Implemented core geometry engines and visual acuity/refraction primitives</li><li>🧪 Expanded test coverage for reliability scoring and triage edge cases</li><li>⚙️ Resolved CI pipeline conflicts and updated project governance docs</li></ul> | **Open Source Contributor** · 2026<br><br><ul><li>⚙️ Engineered LLVM IR code generation for Struct definitions</li><li>🔧 Implemented lowering support for Literal sets, tuples, and dicts</li><li>🔄 Added support for Break and Continue control flow statements</li></ul> |
 
 ---
 
 ## 🧰 Tech Stack
 
-| 💻 Languages | 🤖 AI / ML | ⚙️ Development | 🧪 Testing & Tools |
-| :--- | :--- | :--- | :--- |
-| Python | PyTorch / TensorFlow | Git & GitHub | pytest |
-| SQL | Scikit-Learn | VS Code | Jest |
-| | Pandas / NumPy | | Conda |
-| | OpenCV (Vision) | | CI / GitHub Workflows |
-| | Jupyter / Colab | | Virtual environments |
+- **💻 Languages:** Python, SQL
+- **🤖 AI / ML:** PyTorch, TensorFlow, Scikit-Learn, Pandas, NumPy, OpenCV, RAG, MLOps
+- **⚙️ Tools & Cloud:** Git/GitHub, VS Code, Jupyter/Colab, pytest, Azure Cloud, Power BI
+
+**🌱 Basic Knowledge:**
+- HTML, CSS, JavaScript, TypeScript, Flutter (Dart), React Native
 
 ---
 
-## 📌 Featured Work
+## 📈 GitHub Activity
 
-* 🔬 **[HPH-Vision](https://github.com/m-akhil-reddy/hph-vision)** 
-  Open-source computer vision project where I worked on issues, implementation, and testing.
-* 🧩 **IRx** 
-  Open-source project involving real-world development, debugging, and contribution workflows.
-* 🛠️ **AST / LLVM Work** 
-  Exploring compiler/tooling concepts and working with code-analysis related development.
-
----
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=m-akhil-reddy&theme=tokyonight&hide_border=true" alt="Akhil's GitHub Streak" />
+  <br><br>
+  <img src="https://github-readme-stats.vercel.app/api?username=m-akhil-reddy&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Akhil's GitHub Stats" />
+</div>
 
 ---
 
@@ -96,10 +68,10 @@ I enjoy understanding an existing codebase, solving issues, writing tests, and g
 I'm always interested in discussing **AI • Machine Learning • Open Source • Python • Software Engineering**
 
 <div align="center">
-  <a href="https://linkedin.com/in/akhil-reddy-mogilla-34873427a">
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN_URL">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="url?id=138">
+  <a href="https://github.com/m-akhil-reddy">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
   <a href="mailto:akhilreddymogilla@gmail.com">
