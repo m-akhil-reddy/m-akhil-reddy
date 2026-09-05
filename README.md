@@ -38,27 +38,10 @@
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=m-akhil-reddy&theme=tokyonight&hide_border=true" alt="Akhil's GitHub Streak" />
   <br><br>
-  <img src="https://github-readme-stats.vercel.app/api?username=m-akhil-reddy&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Akhil's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=m-akhil-reddy&show_icons=true&theme=tokyonight&hide_border=true&v=2" alt="Akhil's GitHub Stats" />
 </div>
 
-## 📈 GitHub Activity
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=m-akhil-reddy&theme=gruvbox_light&hide_border=true" alt="Akhil's GitHub Streak" />
-  <br><br>
-  <img src="https://github-readme-stats.vercel.app/api?username=m-akhil-reddy&show_icons=true&theme=gruvbox_light&hide_border=true&count_private=true" alt="Akhil's GitHub Stats" />
-</div>
-
-
-## 📈 GitHub Activity
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=m-akhil-reddy&theme=tokyonight&hide_border=true" alt="Akhil's GitHub Streak" />
-  <br><br>
-  <img src="https://github-readme-stats.vercel.app/api?username=m-akhil-reddy&show_icons=true&theme=tokyonight&hide_border=true&v=1" alt="Akhil's GitHub Stats" />
-</div>
-
---
+---
 
 ## 🚀 What I Do
 
@@ -86,7 +69,7 @@
 I'm always interested in discussing **AI • Machine Learning • Open Source • Python • Software Engineering**
 
 <div align="center">
-  <a href="url?id=76">
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN_URL">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://github.com/m-akhil-reddy">
