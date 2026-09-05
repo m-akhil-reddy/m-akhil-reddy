@@ -64,14 +64,11 @@ I enjoy understanding an existing codebase, solving issues, writing tests, and g
 ## 📈 GitHub Activity
 
 **Akhil's GitHub Status:**
-- **Total Commits:** [Enter your count here]
-- **Total PR's:** [Enter your count here]
-- **Merged PR's:** [Enter your count here]
-- **Total Issues:** [Enter your count here]
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=m-akhil-reddy&show_icons=true&theme=transparent&hide_border=true&title_color=36BCF7&text_color=ffffff" alt="Akhil's GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=m-akhil-reddy&theme=transparent&hide_border=true&title_color=36BCF7&text_color=ffffff" alt="Akhil's GitHub Streak" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=m-akhil-reddy&theme=tokyonight&hide_border=true" alt="Akhil's GitHub Streak" />
+  <br><br>
+  <img src="https://github-readme-stats.vercel.app/api?username=m-akhil-reddy&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Akhil's GitHub Stats" />
 </div>
 
 ---
