@@ -6,11 +6,30 @@
 
 ---
 
+## 📈 GitHub Activity
+
+**Akhil's GitHub Status:**
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=m-akhil-reddy&theme=tokyonight&hide_border=true" alt="Akhil's GitHub Streak" />
+  <br><br>
+  <img src="https://github-readme-stats.vercel.app/api?username=m-akhil-reddy&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Akhil's GitHub Stats" />
+</div>
+
+---
+
 - 🎓 Starting my Master's in Artificial Intelligence & Machine Learning at **BTH, Sweden** 🇸🇪
 - 💻 I enjoy working with **Python, Machine Learning, Software Engineering, and Open Source**
 - 🌱 Currently learning and building deeper expertise in **AI/ML**
 - 🤝 Open to collaborating on **AI/ML and Open Source projects**
 
+---
+
+## 🚀 Experience Highlights
+
+| 🔬 HPH-Vision | 🧩 IRx (arxlang) |
+| :--- | :--- |
+| **Open Source Contributor** · 2026<br><br><ul><li>📐 Implemented core geometry engines and visual acuity/refraction primitives</li><li>🧪 Expanded test coverage for reliability scoring and triage edge cases</li><li>⚙️ Resolved CI pipeline conflicts and updated project governance docs</li></ul> | **Open Source Contributor** · 2026<br><br><ul><li>⚙️ Engineered LLVM IR code generation for Struct definitions</li><li>🔧 Implemented lowering support for Literal sets, tuples, and dicts</li><li>🔄 Added support for Break and Continue control flow statements</li></ul> |
 ---
 
 ## 🚀 What I Do
@@ -60,17 +79,6 @@ I enjoy understanding an existing codebase, solving issues, writing tests, and g
   Exploring compiler/tooling concepts and working with code-analysis related development.
 
 ---
-
-## 📈 GitHub Activity
-
-**Akhil's GitHub Status:**
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=m-akhil-reddy&theme=tokyonight&hide_border=true" alt="Akhil's GitHub Streak" />
-  <br><br>
-  <img src="https://github-readme-stats.vercel.app/api?username=m-akhil-reddy&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Akhil's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api?username=m-akhil-reddy&show_icons=true&theme=tokyonight&hide_border=true" alt="Akhil's GitHub Stats" />
-</div>
 
 ---
 
