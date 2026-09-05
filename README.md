@@ -13,15 +13,15 @@
 
 ---
 
-## 🚀 What I Do
+## 🧰 Tech Stack
 
-- 🤖 **Explore** Artificial Intelligence & Machine Learning
-- 🐍 **Build** projects using Python
-- 🔬 **Work** with Machine Learning concepts and frameworks
-- 🧪 **Write** and improve tests
-- 🛠️ **Contribute** to open-source projects
-- 🔀 **Work** with Git, GitHub, branches, PRs, rebasing, and code reviews
-- 📚 **Learn** by working on real-world codebases
+- **💻 Languages:** Python, SQL
+- **🤖 AI / ML:** PyTorch, TensorFlow, Scikit-Learn, Pandas, NumPy, OpenCV, RAG, MLOps
+- **☁️ Cloud:** Azure Cloud
+- **⚙️ Tools:** Git/GitHub, VS Code, Jupyter/Colab, pytest, Power BI
+
+**🌱 Basic Knowledge:**
+- HTML, CSS, JavaScript, TypeScript, Flutter (Dart), React Native
 
 ---
 
@@ -33,17 +33,6 @@
 
 ---
 
-## 🧰 Tech Stack
-
-- **💻 Languages:** Python, SQL
-- **🤖 AI / ML:** PyTorch, TensorFlow, Scikit-Learn, Pandas, NumPy, OpenCV, RAG, MLOps
-- **⚙️ Tools & Cloud:** Git/GitHub, VS Code, Jupyter/Colab, pytest, Azure Cloud, Power BI
-
-**🌱 Basic Knowledge:**
-- HTML, CSS, JavaScript, TypeScript, Flutter (Dart), React Native
-
----
-
 ## 📈 GitHub Activity
 
 <div align="center">
@@ -51,6 +40,18 @@
   <br><br>
   <img src="https://github-readme-stats.vercel.app/api?username=m-akhil-reddy&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Akhil's GitHub Stats" />
 </div>
+
+---
+
+## 🚀 What I Do
+
+- 🤖 **Explore** Artificial Intelligence & Machine Learning
+- 🐍 **Build** projects using Python
+- 🔬 **Work** with Machine Learning concepts and frameworks
+- 🧪 **Write** and improve tests
+- 🛠️ **Contribute** to open-source projects
+- 🔀 **Work** with Git, GitHub, branches, PRs, rebasing, and code reviews
+- 📚 **Learn** by working on real-world codebases
 
 ---
 
@@ -68,7 +69,7 @@
 I'm always interested in discussing **AI • Machine Learning • Open Source • Python • Software Engineering**
 
 <div align="center">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN_URL">
+  <a href="url?id=76">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://github.com/m-akhil-reddy">
